@@ -2,7 +2,9 @@
 
 ### 💻 Descrição
 
-👉 Acesse as instruções do Desafio: [Instruções Desafio 1 Chapter III: Database Queries](https://www.notion.so/Desafio-01-Database-Queries-8d97dae581d5446e97555c43d301ee45)
+👉 Acesse as instruções do Desafio 1: [Instruções Desafio 1 Chapter III: Database Queries](https://www.notion.so/Desafio-01-Database-Queries-8d97dae581d5446e97555c43d301ee45)
+
+👉 Acesse as instruções e resolução do Desafio 2: [Resolução e Instrução do Desafio 2 Chapter III: Modelagem do Banco de Dados](https://www.notion.so/Desafio-02-Modelagem-do-banco-de-dados-9b66dac12cbe43c4ab4d0b1ef065d1b8?pvs=4)
 
 <p align="justify">O desafio consistia em realizar consultas no banco de dados PostgreSQL utilizando TypeORM. Não houve alteração em nenhuma parte do código a não ser nas queries para o Banco de Dados.
 
